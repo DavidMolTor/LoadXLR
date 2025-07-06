@@ -3565,24 +3565,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6cdc4395-b75b-4006-8598-d72bb244510f")
 		(property "Reference" "R7"
-			(at 186.69 106.6801 0)
+			(at 189.23 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "40"
-			(at 186.69 104.1401 0)
+		(property "Value" "47"
+			(at 189.23 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
@@ -3717,7 +3716,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "160"
+		(property "Value" "150"
 			(at 203.2 71.1199 0)
 			(effects
 				(font
@@ -4039,24 +4038,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bcbb39ca-eaad-4140-9212-d86a02780778")
 		(property "Reference" "R6"
-			(at 177.8 106.6801 0)
+			(at 180.086 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "20"
-			(at 177.8 104.1401 0)
+		(property "Value" "22"
+			(at 180.086 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
@@ -4120,7 +4118,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "320"
+		(property "Value" "330"
 			(at 212.09 71.1199 0)
 			(effects
 				(font
@@ -4183,7 +4181,7 @@
 		(fields_autoplaced yes)
 		(uuid "c602ab74-0ce2-40ee-8864-d1e54ab6aae9")
 		(property "Reference" "R9"
-			(at 203.2 106.6801 0)
+			(at 203.2 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4191,8 +4189,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "160"
-			(at 203.2 104.1401 0)
+		(property "Value" "150"
+			(at 203.2 106.6799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4532,24 +4530,23 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d49eea56-d075-4626-b6cf-75797160b3af")
 		(property "Reference" "R8"
-			(at 195.58 106.6801 0)
+			(at 197.866 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "80"
-			(at 195.58 104.1401 0)
+		(property "Value" "82"
+			(at 197.866 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
@@ -4677,7 +4674,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "20"
+		(property "Value" "22"
 			(at 177.8 71.1199 0)
 			(effects
 				(font
@@ -4747,7 +4744,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "40"
+		(property "Value" "47"
 			(at 186.69 71.1199 0)
 			(effects
 				(font
@@ -4883,7 +4880,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "80"
+		(property "Value" "82"
 			(at 195.58 71.1199 0)
 			(effects
 				(font
